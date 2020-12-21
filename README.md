@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [OConsent - Open Consent Protocol](https://github.com/OConsent/) 
 - 🌱 I’m currently learning Human Centered Design (HCD)
 - 👯 I’m looking to collaborate on [OConsent - Open Consent Protocol](https://github.com/OConsent/)
-- 🤔 I’m looking for help with Adata-X (Data Attribution and Sharing Platform)
+- 🤔 I’m looking for help with Adata-X (Data Attribution and Sharing Platform), Project Souk (Decentralized Marketplace)
 - 💬 Ask me about Distributed Systems, ML/AI, Blockchain.
 - 📫 How to reach me: contact@subhadipmitra.com
 <!--
