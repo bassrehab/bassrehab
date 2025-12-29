@@ -1,6 +1,6 @@
 # Subhadip Mitra
 
-Building data platforms and AI Systems.  
+Building data platforms and AI systems.  
 Google Cloud • Southeast Asia
 
 ---
