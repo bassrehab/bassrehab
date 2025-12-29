@@ -16,10 +16,10 @@ Google Cloud • Southeast Asia
 ### Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [I Trained Probes to Catch AI Models Sandbagging](https://subhadipmitra.com/blog/2025/detecting-ai-sandbagging/) — First empirical demonstration of activation-level sandbagging detection
-- [Why Steering Vectors Beat Prompting (And When They Don't)](https://subhadipmitra.com/blog/2025/steering-vectors-agents/) — Testing activation steering on agent behaviors
-- [Why I Built a Spark-Native LLM Evaluation Framework](https://subhadipmitra.com/blog/2025/building-spark-llm-eval/) — Distributed LLM evaluation that actually scales
-- [The MCP Maturity Model](https://subhadipmitra.com/blog/2025/mcp-maturity-model/) — A framework for evaluating multi-agent context strategy
+- [I Trained Probes to Catch AI Models Sandbagging](https://subhadipmitra.com/blog/2025/detecting-ai-sandbagging/) - First empirical demonstration of activation-level sandbagging detection
+- [Why Steering Vectors Beat Prompting (And When They Don't)](https://subhadipmitra.com/blog/2025/steering-vectors-agents/) - Testing activation steering on agent behaviors
+- [Why I Built a Spark-Native LLM Evaluation Framework](https://subhadipmitra.com/blog/2025/building-spark-llm-eval/) - Distributed LLM evaluation that actually scales
+- [The MCP Maturity Model](https://subhadipmitra.com/blog/2025/mcp-maturity-model/) - A framework for evaluating multi-agent context strategy
 - [From 11% to 88% Peak Bandwidth: Custom Triton Kernels for LLM Inference](https://subhadipmitra.com/blog/2025/triton-kernels-llm-inference/)
 <!-- BLOG-POST-LIST:END -->
 
