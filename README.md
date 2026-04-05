@@ -16,14 +16,19 @@ Google Cloud • Southeast Asia
 ### Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [I Trained Probes to Catch AI Models Sandbagging](https://subhadipmitra.com/blog/2025/detecting-ai-sandbagging/) - First empirical demonstration of activation-level sandbagging detection
-- [Why Steering Vectors Beat Prompting (And When They Don't)](https://subhadipmitra.com/blog/2025/steering-vectors-agents/) - Testing activation steering on agent behaviors
-- [Why I Built a Spark-Native LLM Evaluation Framework](https://subhadipmitra.com/blog/2025/building-spark-llm-eval/) - Distributed LLM evaluation that actually scales
-- [The MCP Maturity Model](https://subhadipmitra.com/blog/2025/mcp-maturity-model/) - A framework for evaluating multi-agent context strategy
-- [From 11% to 88% Peak Bandwidth: Custom Triton Kernels for LLM Inference](https://subhadipmitra.com/blog/2025/triton-kernels-llm-inference/)
-<!-- BLOG-POST-LIST:END -->
-
-→ More at [subhadipmitra.com/blog](https://subhadipmitra.com/blog)
+- [Beating CUDA with Triton: A Fused MoE Dispatch Kernel for Mixtral and 
+DeepSeek](https://subhadipmitra.com/blog/2026/fused-moe-dispatch-triton/) - Pure Triton MoE dispatch that beats Megablocks at inference     
+batch sizes
+- [Attention Is All You Bid](https://subhadipmitra.com/blog/2026/attention-is-all-you-bid/) - Transformer architectures for real-time       
+bidding                                                                                                                                     
+- [Three Bets on Model Honesty](https://subhadipmitra.com/blog/2026/three-bets-model-honesty/) - Where AI alignment research is heading next
+- [Circuit Tracing in Production](https://subhadipmitra.com/blog/2026/circuit-tracing-production/) - Mechanistic interpretability for       
+production AI safety                                                                                                                        
+- [From 11% to 88% Peak Bandwidth: Custom Triton Kernels for LLM                                                                            
+Inference](https://subhadipmitra.com/blog/2025/triton-kernels-llm-inference/) - The foundation for the fused MoE work                       
+<!-- BLOG-POST-LIST:END -->                                                                                                               
+                                                                                                                                            
+→ More at [subhadipmitra.com/blog](https://subhadipmitra.com/blog)  
 
 ---
 
