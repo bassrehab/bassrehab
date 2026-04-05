@@ -16,18 +16,13 @@ Google Cloud • Southeast Asia
 ### Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Beating CUDA with Triton: A Fused MoE Dispatch Kernel for Mixtral and 
-DeepSeek](https://subhadipmitra.com/blog/2026/fused-moe-dispatch-triton/) - Pure Triton MoE dispatch that beats Megablocks at inference     
-batch sizes
-- [Attention Is All You Bid](https://subhadipmitra.com/blog/2026/attention-is-all-you-bid/) - Transformer architectures for real-time       
-bidding                                                                                                                                     
+- [Beating CUDA with Triton: A Fused MoE Dispatch Kernel for Mixtral and DeepSeek](https://subhadipmitra.com/blog/2026/fused-moe-dispatch-triton/) - Pure Triton MoE dispatch that beats Megablocks at inference batch sizes
+- [Attention Is All You Bid](https://subhadipmitra.com/blog/2026/attention-is-all-you-bid/) - Transformer architectures for real-time bidding
 - [Three Bets on Model Honesty](https://subhadipmitra.com/blog/2026/three-bets-model-honesty/) - Where AI alignment research is heading next
-- [Circuit Tracing in Production](https://subhadipmitra.com/blog/2026/circuit-tracing-production/) - Mechanistic interpretability for       
-production AI safety                                                                                                                        
-- [From 11% to 88% Peak Bandwidth: Custom Triton Kernels for LLM                                                                            
-Inference](https://subhadipmitra.com/blog/2025/triton-kernels-llm-inference/) - The foundation for the fused MoE work                       
+- [Circuit Tracing in Production](https://subhadipmitra.com/blog/2026/circuit-tracing-production/) - Mechanistic interpretability for production AI safety
+- [From 11% to 88% Peak Bandwidth: Custom Triton Kernels for LLM Inference](https://subhadipmitra.com/blog/2025/triton-kernels-llm-inference/) - The foundation for the fused MoE work
 <!-- BLOG-POST-LIST:END -->                                                                                                               
-                                                                                                                                            
+
 → More at [subhadipmitra.com/blog](https://subhadipmitra.com/blog)  
 
 ---
