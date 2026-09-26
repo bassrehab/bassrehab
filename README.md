@@ -23,8 +23,8 @@ Google Cloud • Southeast Asia
 - [I Trained Three Models Against the Rubric I Published in January. Two Learned to Game It.](https://subhadipmitra.com/blog/2026/rlvr-verifier-gamed/) - GRPO against my own RLVR rubric: two models gamed it, one did not
 - [The Stateless MCP Spec Audited My Compiler, and My Confirmation Gate Failed](https://subhadipmitra.com/blog/2026/mcp-stateless-spec-audit/) - What the 2026-07-28 MCP spec breaks in generated servers
 - [Your OpenAPI Spec Is Not an Agent Interface](https://subhadipmitra.com/blog/2026/api-mcp-compiler/) - Compiling governed MCP tool surfaces from OpenAPI and WSDL
-- [Beating FP16 with 4-bit Weights: A Portable W4A16 GEMM in Triton](https://subhadipmitra.com/blog/2026/w4a16-weight-only-gemm-triton/) - Weight-only quantized GEMM without vendor kernels
-- [The Activation-Cone Blind Spot](https://subhadipmitra.com/blog/2026/activation-cone-blind-spot/) - Where linear probes stop seeing what a model is doing
+- [Beating FP16 with 4-bit Weights: A Portable W4A16 GEMM in Triton](https://subhadipmitra.com/blog/2026/w4a16-weight-only-gemm-triton/) - 4-bit weight-only GEMM in pure Triton that runs on NVIDIA and AMD
+- [The Activation-Cone Blind Spot](https://subhadipmitra.com/blog/2026/activation-cone-blind-spot/) - Why prompt-time activation defenses miss prefilling attacks
 <!-- BLOG-POST-LIST:END -->
 
 
